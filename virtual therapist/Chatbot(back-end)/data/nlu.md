@@ -1,0 +1,907 @@
+## intent:greet
+- hey 
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+
+## intent:ask_name_action
+- my name is [harsha](name)
+- i am [harshith](name)
+- i'm [hamza](name)
+- [guru](name)
+- [karthik](name)
+- my name is [shweta](name)
+- i am [divya](name)
+- myself [girish](name)
+- i am [balu](name)
+- myself [abhijeet](name)
+- this is [prashanth](name)
+- [priya](name)
+- myself [jathin](name)
+- this is [gorantla](name)
+- i'm [vaibhav](name)
+- i am [bindushree](name)
+- this is [neha](name)
+- i am [ramurthy](name)
+- i am [ragini](name)
+- this is [sahana](name)
+- this is [nayana](name)
+- i'm [ashwini](name)
+- i'm [gowri](name)
+- myself [rajath](name)
+- myself[rohan](name)
+
+## intent:day_good
+- it was good
+- its been good so far
+- nice
+- it was nice only
+- it was nice
+- it was lovely
+- its been amazing
+- very good
+- good bro
+- it was great 
+- its been aswesome
+
+## intent:day_bad
+- it was terrible
+- very bad
+- too bad
+- too worse
+- dont even ask, it was so bad
+- its been disgusting
+- it was not that good
+- it was bad
+- bad
+
+## intent:day_normal
+- it was normal
+- okay okay
+- it was kinda normal
+- it was kind of normal
+- it was as usual
+ 
+## intent:free_time
+- Acting
+- Adventure park
+- Aerobics
+- Air hockey
+- Air sports
+- Airbrushing
+- Aircraft
+- Aircraft spotting
+- Airsoft
+- All-Terrain vehicles
+- Alternate reality games
+- Alternative
+- Amateur Radio
+- Amateur astronomy
+- Amateur geology
+- Amateur meteorology
+- Amateur radio
+- American football
+- Amusement Park
+- Amusement park
+- Animal
+- Animal care
+- Antiques
+- Antiquing
+- Antiquities
+- Aquariums
+- Arcade Games
+- Archaeology
+- Archery
+- Archery/Crossbow
+- Architecture
+- Aromatherapy
+- Art Activities
+- Art Collecting / Collectibles
+- Art and Crafts
+- Art collecting
+- Art/antique collecting
+- Arts and Crafts
+- Arts/cultural
+- Artwork 
+- Association football
+- Astrology
+- Astronomy
+- Audiophilia
+- Australian Football League
+- Auto audiophilia
+- Auto racing
+- Autographs
+- Automotive work/repair
+- BMX tricks
+- Back packing
+- Backgamon
+- Backpacking
+- Badge Collecting
+- Badminton
+- Baking
+- Ballet
+- Ballet Dancing
+- Ballooning
+- Scuba
+- Scuba Diving
+- Scuba diving
+- Sculling or Rowing
+- Sculpting
+- Sculpture
+- Seaglass collecting
+- Seashell collecting
+- Seashells
+- Self-Improvement
+- Self-Improvement Courses
+- Service
+- Sewing
+- Shoes
+- Shooting guns
+- Shooting sport
+- Shopping
+- Shopping for latest trends
+- Shortwave listening
+- Show Choir
+- Sightseeing
+- Singing
+- Singing Lessons
+- Singing games
+- Singing/composing music
+- Skate Boarding
+- Skateboarding
+- Skateboarding/rollerblading
+- Skating
+- Skating
+- Skiing
+- Skill games
+- playing soccer
+- free diving
+- diving
+- Skincare Regime
+- Sky diving
+- Skydiving
+- Skydiving
+- Skype
+- Sky running
+- Sledding
+- Slot car racing
+- Snake
+- Snooker
+- Snorkeling
+- Snow Biking
+- Snow Skiing
+- Snow skiing
+- Snowboarding
+- Snowmobile Riding
+- Snowmobiles
+- Snowmobiling
+- Snowshoeing
+- Soap making
+- Soccer
+- Social
+- Social Networking
+- Soft Rock
+- Softball
+- Space Exploration
+- Speed Skating
+- Spider
+- Spinning
+- Sport fishing
+- Sporting dog field trials
+- Sporting interests
+- Sports
+- Sports Cards
+- Sports memorabilia
+- Sports on TV
+- Squash
+- Stained Glass
+- Stamp Collecting
+- Stamps
+- Stargazing
+- Stereo
+- Stocks
+- Stone collecting
+- Street Racing
+- Street games
+- Sudoku Puzzles
+- Sunbathing
+- Surfing
+- Survey date
+- Sweepstakes
+- Sweepstake
+- Swimming
+- Swimming pool
+- Table Tennis
+- Table football
+- Table tennis
+- Tabletop games
+- Tai Chi
+- Tango Dance
+- Target shooting
+- Target shooting
+- Tarot
+- Tarot card reading
+- Taxidermy
+- Team Games
+- Telescopes
+- Ten Pin Bowling
+- Tennis
+- Texting
+- Theater Sports
+- Theater/Performing Arts
+- Theatre
+- Third person shooter games
+- Thriller
+- Tie dying
+- Tile-based games
+- Timeshare
+- Touch football
+- Tour skating
+- Toys
+- Track &amp
+- Field
+- Train Spotting
+- Trainspotting
+- Trap
+- Travel
+- Travel games
+- Traveling
+- Traveling and exploration
+- Treasure Hunting
+- Treasure hunting
+- Tree climbing
+- Trekkie
+- Trekking
+- Turtle
+- Tutoring
+- Types of Recreation
+- US Travel
+- Urban exploration
+- Vacation cruises
+- Traveling
+- Vacations
+- Vehicle restoration
+- Veterans
+- Video Games
+- Video games
+- Video gaming
+- DVD
+- Video
+- Videophilia
+- Vintage Books
+- Vintage car
+- Vintage clothing
+- Vitamin supplements
+- Volleyball
+- Volunteering
+- Walking
+- Walking and Hiking
+- Walking/health
+- Wall Art
+- Want further mailings
+- Wargames
+- Warships
+- Watching Movies
+- Watching Sports
+- Watching TV
+- Watching movies
+- Water Polo
+- Water Skiing
+- Water sports
+- Watercolor Paintings
+- Weather Forecasting
+- Weaving
+- Websites
+- Weight training
+- Weightlifting
+- White Water Rafting
+- Whitewater rafting
+- Wildlife safari Snorkeling A
+- Wildlife
+- Wind Surfing
+- Windsurfing
+- Windsurfing Kayaking
+- Wine Appreciation
+- Wine Making
+- Wine tasting
+- Wines
+- Wingsuit flying
+- Wood Carving
+- Wood Working
+- Woodworking
+- Word games
+- World news or politics
+- Worldbuilding
+- Worship Team
+- Wrestling
+- Writing
+- Yachting
+- Yo-yoing
+- YoYo
+- Yoga
+- Youth Band
+- Youth Group
+- Yoyo
+- Zumba
+- cooperative games
+- courses
+- deck building games
+- insects
+- knotting
+- leaves
+- magician
+- angling/Fly fishing
+- real time games
+- rocks
+- strategy games
+- thematic games
+- Acting
+- Aeromodeling
+- Air sports
+- Airbrushing
+- Aircraft Spotting
+- Airsoft
+- Airsofting
+- Amateur astronomy
+- Amateur geology
+- Amateur Radio
+- American football
+- Animal fancy
+- dogs
+- pets
+- Animals
+- Antiquing
+- Antiquities
+- Aqua-lung
+- Aquarium
+- Archery
+- Art collecting
+- Arts
+- Association football
+- Astrology
+- Astronomy
+- Audiophilia
+- Auto audiophilia
+- Auto racing
+- Backgammon
+- Backpacking
+- Badminton
+- Base Jumping
+- Baseball
+- Basketball
+- Baton Twirling
+- Beach Volleyball
+- Sun tanning
+- Beach
+- Beachcombing
+- Beadwork
+- Beatboxing
+- Beekeeping
+- Bell Ringing
+- Belly Dancing
+- Bicycle Polo
+- Bicycling
+- Billiards
+- Bird watching
+- Birding
+- Birdwatching
+- Blacksmithing
+- Blogging
+- BMX
+- Board games
+- Board sports
+- BoardGames
+- Boating
+- Body Building
+- Bodybuilding
+- Bonsai Tree
+- Book collecting
+- Bookbinding
+- Boomerangs
+- Bowling
+- Boxing
+- Brazilian jiu-jitsu
+- Break dancing
+- Brewing Beer
+- Bridge
+- Bridge Building
+- Bringing Food To The Disabled
+- Building Dollhouses
+- Bus spotting
+- Butterfly Watching
+- Button Collecting
+- Cake Decorating
+- Calligraphy
+- Camping
+- Candle making
+- Canoeing
+- Car Racing
+- Card collecting
+- Cartooning
+- Casino Gambling
+- Cave Diving
+- Ceramics
+- Cheerleading
+- Chess
+- Church/church activities
+- Cigar Smoking
+- Climbing
+- Cloud Watching
+- Coin Collecting
+- Collecting
+- Collecting Antiques
+- Collecting Artwork
+- Collecting Hats
+- Collecting Music Albums
+- Collecting RPM Records
+- Collecting Sports Cards
+- Collecting Swords
+- Color guard
+- Coloring
+- Comic book collecting
+- Compose Music
+- Computer activities
+- Computer programming
+- Conworlding
+- Cooking
+- Cosplay
+- Cosplaying
+- Couponing
+- Crafts
+- Creative writing
+- Cricket
+- Crochet
+- Crocheting
+- Cross-Stitch
+- Crossword Puzzles
+- Cryptography
+- Curling
+- Cycling
+- Dance
+- Dancing
+- Darts
+- Debate
+- Deltiology
+- Diecast Collectibles
+- Digital arts
+- Digital Photography
+- Disc golf
+- Do it yourself
+- Dodgeball
+- Dog sport
+- Dolls
+- Dominoes
+- Dowsing
+- Drama
+- Drawing
+- Driving
+- Dumpster Diving
+- Eating out
+- Educational Courses
+- Electronics
+- Element collecting
+- Embroidery
+- Entertaining
+- Equestrianism
+- aerobics
+- Exercise
+- Exhibition drill
+- Falconry
+- Fast cars
+- Felting
+- Fencing
+- Field hockey
+- Figure skating
+- Fire Poi
+- Fishing
+- Fish keeping
+- Flag Football
+- Floor ball
+- Floral Arrangements
+- Flower arranging
+- Flower collecting and pressing
+- Fly Tying
+- Flying
+- Footbag
+- Football
+- Foraging
+- Foreign language learning
+- Fossil hunting
+- Four Wheeling
+- Freshwater Aquariums
+- Frisbee Golf
+- Gambling
+- Games
+- Gaming
+- Garage Saleing
+- Gardening
+- Genealogy
+- Geocaching
+- Ghost hunting
+- Glassblowing
+- Glowsticking
+- Gnoming
+- Going to movies
+- Golf
+- Golfing
+- Gongoozling
+- Graffiti
+- Grip Strength
+- Guitar
+- Gun Collecting
+- Gunsmithing
+- Gymnastics
+- Gyotaku
+- Handball
+- Handwriting Analysis
+- Hang gliding
+- Herping
+- Hiking
+- Home Brewing
+- Home Repair
+- Home Theater
+- Homebrewing
+- Hooping
+- Horse riding
+- Hot air ballooning
+- Hula Hooping
+- Hunting
+- Ice hockey
+- Ice skating
+- Ice skating
+- Illusion
+- Impersonations
+- Inline skating
+- Insect collecting
+- Internet
+- Inventing
+- Jet Engines
+- Jewelry Making
+- Jigsaw Puzzles
+- Jogging
+- Judo
+- Juggling
+- Jukskei
+- Jump Roping
+- Kabaddi
+- Kart racing
+- Kayaking
+- Keep A Journal
+- Kitchen Chemistry
+- Kite Boarding
+- Kite flying
+- Kites
+- Kitesurfing
+- Knapping
+- Knife making
+- Knife throwing
+- Knitting
+- Knotting
+- Lacemaking
+- Lacrosse
+- Lapidary
+- LARPing
+- Laser tag
+- Lasers
+- Lawn Darts
+- Learn to Play Poker
+- Learning A Foreign Language
+- Learning An Instrument
+- Learning To Pilot A Plane
+- Leather crafting
+- Leathercrafting
+- Lego building
+- Legos
+- Letterboxing
+- Listening to music
+- Locksport
+- Machining
+- Macramé
+- Macrame
+- Magic
+- Mahjong
+- Making Model Cars
+- Marbles
+- Marksmanship
+- Martial arts
+- Matchstick Modeling
+- Meditation
+- Metal detecting
+- Meteorology
+- Microscopy
+- Mineral collecting
+- Model aircraft
+- Model building
+- Model Railroading
+- Model Rockets
+- Modeling Ships
+- Models
+- Motor sports
+- Motorcycles
+- Mountain Biking
+- Mountain Climbing
+- Mountaineering
+- Movie and movie memorabilia collecting
+- Mushroom hunting/Mycology
+- Musical Instruments
+- Nail Art
+- Needlepoint
+- Netball
+- Nordic skating
+- Orienteering
+- Origami
+- Owning An Antique Car
+- Paintball
+- Painting
+- Papermache
+- Papermaking
+- Parachuting
+- Paragliding or Power Paragliding
+- Parkour
+- People Watching
+- Photography
+- Piano
+- Pigeon racing
+- Pinochle
+- Pipe Smoking
+- Planking
+- Playing music
+- Playing musical instruments
+- Playing team sports
+- Poker
+- Pole Dancing
+- Polo
+- Pottery
+- Powerboking
+- Protesting
+- Puppetry
+- Puzzles
+- Pyrotechnics
+- Quilting
+- R/C Boats
+- R/C Cars
+- R/C Helicopters
+- R/C Planes
+- Racing Pigeons
+- Racquetball
+- Radio-controlled car racing
+- Rafting
+- Railfans
+- Rappelling
+- Rapping
+- Reading
+- Reading To The Elderly
+- Record collecting
+- Relaxing
+- Renaissance Faire
+- Renting movies
+- Rescuing Abused
+- Abandoned Animals
+- Robotics
+- Rock balancing
+- Rock climbing
+- Rock Collecting
+- Rockets
+- Rocking AIDS Babies
+- Roleplaying
+- Roller derby
+- Roller skating
+- Rugby
+- Rugby league football
+- Running
+- Sailing
+- Saltwater Aquariums
+- Sand art
+- Sand Castles
+- Scrapbooking
+- Scuba diving
+- Sculling or Rowing
+- Sculpting
+- Sea glass collecting
+- Seashell collecting
+- Self Defense
+- Sewing
+- Shark Fishing
+- Shooting
+- Shooting sport
+- Shopping
+- Shortwave listening
+- Singing
+- Singing In Choir
+- Skateboarding
+- Skeet Shooting
+- Sketching
+- Skiing
+- Skimboarding
+- Sky Diving
+- Skydiving
+- Slack Lining
+- Slacklining
+- Sleeping
+- Slingshots
+- Slot car racing
+- Snorkeling
+- Snowboarding
+- Soap Making
+- Soapmaking
+- Socializing with friends/neighbors
+- Speed Cubing
+- Speed skating
+- Spelunkering
+- Spending time with family/kids
+- Sports
+- Squash
+- Stamp Collecting
+- Stand-up comedy
+- Stone collecting
+- Stone skipping
+- Storm Chasing
+- Storytelling
+- String Figures
+- Sudoku
+- Surf Fishing
+- Surfing
+- Survival
+- Swimming
+- Table football
+- Table tennis
+- Taekwondo
+- Tai chi
+- Tatting
+- Taxidermy
+- Tea Tasting
+- Tennis
+- Tesla Coils
+- Tetris
+- Textiles
+- Texting
+- Tombstone Rubbing
+- Tool Collecting
+- Tour skating
+- Toy Collecting
+- Train Collecting
+- Train Spotting
+- Trainspotting
+- Traveling
+- Treasure Hunting
+- Trekkie
+- Triathlon
+- Tutoring Children
+- TV watching
+- Ultimate Frisbee
+- Urban exploration
+- Vehicle restoration
+- Video game collecting
+- Video Games
+- Video gaming
+- Videophilia
+- Vintage cars
+- Violin
+- Volleyball
+- Volunteer
+- Walking
+- Warhammer
+- Watching movies
+- Watching sporting events
+- Water sports
+- Weather Watcher
+- Web surfing
+- Weightlifting
+- Windsurfing
+- Wine Making
+- Wood carving
+- Woodworking
+- Working In A Food Pantry
+- Working on cars
+- World Record Breaking
+- Worldbuilding
+- Wrestling
+- Writing
+- Writing Music
+- Writing Songs
+- Yo-yoing
+- Yoga
+- YoYo
+- Ziplining
+- Zumba
+- i would like going for cycling
+- i would play mobile games
+- i will paint
+- i will play football
+- i will sleep
+- i will watch movies
+- i would checkout something new on web
+- i will dance
+- i will workout
+- gymming
+- birdwatching
+- listen to songs
+- ill be on social media
+- ill be insta scrolling
+- ill be lying on my bed
+
+## intent:reply_grateful
+- friends
+- family
+- food
+- shelter
+- life
+- i am grateful about my family
+- i am grateful for my friends
+- i have more gratitude towards food
+- i have more gratitude towards life
+ 
+ ## intent:happy
+ - i was feeling happy
+ - i was feeling good
+ - i was relaxed
+ - happy
+ - good vibes
+ - i was excited
+ - satisfying
+ 
+ ## intent:sad
+ - i was feeling sad
+ - i had bitter feeling
+ - i was feeling down the whole time
+ - i was feeling low
+ - i was feeling distressed
+ - i was feeling down
+ 
+ ## intent:angry
+ - i was feeling frustrated
+ - i was feeling irritated
+ - i was feeling annoyed
+ - i was feeling angry
+ - i was feeling furious
+ - enraged
+ - i was offended
+ - i was feeling outraged
+ - i was fierce all the time
+ - i was fuming
+ - i was provoked
+ - sulky
+ - stormed
+ 
+## intent:anxiety
+ - i was feeling anxious
+ - i was panicking
+ - i had this uneasy feeling
+ 
+## intent:sleep_tracker
+ - [1](ti)
+ - [2](ti)
+ - [3](ti)
+ - [4](ti)
+ - [5](ti)
+ - [6](ti)
+ - [7](ti)
+ - [8](ti)
+ - [9](ti)
+ - [10](ti)
+ - [11](ti)
+ - [12](ti)
+ 
+## intent:affirm
+ - yes
+ 
+## intent:decline
+ - no
+  
+## intent:Bye
+ - bye
+ - goodbye
+ - thank you
+ - see you later
+ - bubye
+ - bye-bye
+ - good bye
+ 
+## intent:bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?

@@ -1,0 +1,154 @@
+intents:
+  - greet
+  - ask_name_action
+  - day_good
+  - day_normal
+  - day_bad
+  - free_time
+  - reply_grateful
+  - happy
+  - sad
+  - angry
+  - anxiety
+  - sleep_tracker
+  - affirm
+  - decline
+  - Bye
+  - bot_challenge
+
+
+
+
+entities:
+  - name
+  - ti
+
+slots:
+  name:
+    type: text
+
+  ti:
+    type: float
+
+actions:
+  - action_hello_world
+  - action_sleep_tracker
+
+responses:
+  utter_greet:
+  - text: "Hey! I am Sage. What's your name?"
+
+  utter_day_good:
+  - text: "That great!! What is that one thing you prefer doing the most during free time?"
+
+  utter_free_time:
+    - text: "That's sounds amazing! you are doing great..Among these, where does your gratitude lie? -(Family,Friends,Food,Shelter,Life)"
+
+  utter_day_normal:
+  - text: "That's better. What is that one thing you prefer doing the most during free time?"
+
+  utter_day_bad:
+  - text: "It's fine. Some days are hard..What is that one thing you prefer doing the most during free time?"
+
+  ask_grateful:
+  - text: "Among these, where does your gratitude lie? -(Family,Friends,Food,Shelter,Life)"
+
+  utter_grateful:
+  - text: "Yay! That sounds amazing. \n We often forget little things in life. By being thankful about the present.\n
+  You are doing great, as you have started recognizing all the tiny details about the things that make you really better.\n
+  What was that prominent feel you had the whole day?"
+
+  utter_default:
+  - text: "Sorry. I did not understand. Can you please rephrase it?"
+
+  ask_prominent:
+  - text: "What was that prominent feel you had the whole day?"
+
+  utter_happy_feel:
+  - text: " That is a great feeling have!\n
+  You know Aristotle once said “Happiness is the meaning and purpose of life, the whole aim and the end of human existence”.\n
+  Being happy helps you to combat mental stress easily, which helps in keeping your mind healthy"
+
+  utter_sad_feel:
+  - text: "It's fine, I totally understand how you must be feeling now. it will be fine.. \n
+    usually sadness will pass on its own, but you can still try doing these things:\n
+    * Doing what makes you happy\n
+    * Watching a nice video or movie\n
+    * Spending time with someone you are close to\n"
+
+  utter_sad_video:
+  - text: "Here's a video i think might cheer you up. you can always give it a try:\n"
+
+  utter_sad_video1:
+  - text: "<a href='https://www.youtube.com/watch?v=PppkNH3bKV4'>click here</a>"
+
+  utter_fun_video:
+  - text: "Here's a funny video that you can't stop laughing at:\n"
+
+  utter_fun_video1:
+  - text: "<a href='https://www.youtube.com/watch?v=je4Uw8qUj08'>click here</a>"
+
+  utter_mindful_video:
+  - text: " Here's video on, why mindfulness is a super power. i think this might make you feel better \n"
+
+  utter_mindful_video1:
+  - text: "<a href=' https://www.youtube.com/watch?v=w6T02g5hnT4'>click here</a>"
+
+  utter_angry_feel:
+  - text: "Its fine.. i can understand. Sometimes situations are not in your favour.\n
+    Dont worry i can help yo with that!\n
+    I want you to take long breath and concentrate on your breath\n
+    if that doesnt work for you, try visualizing something you like or\n
+    try counting from 0 to 100 while concentrating on the numbers. This would surely help!"
+
+  utter_calm_video:
+  - text: "Here's a video which can you help you calming down!\n"
+
+  utter_calm_video1:
+  - text: "<a href='https://www.youtube.com/watch?v=T235jK9xR8Q'>click here</a>"
+
+  utter_anxiety_feel:
+  - text: "No problem, im here to help you, its totally normal to be anxious on certain things like\n
+      moving to a new place, starting a new job or taking tests. its a very common feeling, sometimes it even\n
+      motivates you to do a great job. Ordinary anxiety comes and goes.. You can try these things to feel better\n
+      I want you to take long breath and concentrate on your breath\n
+      if that doesnt work for you, try visualizing something you like or\n
+      try counting from 0 to 100 while concentrating on the numbers. This would surely help!"
+
+  utter_sleep_hour:
+  - text: "How many hour did you sleep today?"
+
+  utter_dep_test:
+  - text: "Please answer the following questions in yes or no:"
+
+  utter_test1:
+  - text: "Do you feel like you need more attention more often?"
+
+  utter_test2:
+  - text: "Do you have a lot of mood swings?"
+
+  utter_test3:
+  - text: "Do you feel anxious more often?"
+
+  utter_test4:
+  - text: "Are you having a mental breakdown?"
+
+  utter_test5:
+  - text: "Are you having suicidal thoughts?"
+
+  utter_dep_reply:
+  - text: "You might be in depression, i would highly recommend you to call on this hot-line number\n
+     1-866-296-4762"
+
+  utter_nodepression:
+  - text: "There's nothing to worry about :)"
+
+  utter_goodbye:
+  - text: "Good Bye. Have a nice time :)"
+
+  utter_iambot:
+  - text: "i am sage! a bot created by a bunch of Tech Enthusiasts"
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
